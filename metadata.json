@@ -1,0 +1,6 @@
+{
+  "name": "Assistant Commercial IA",
+  "description": "SaaS Assistant Commercial WhatsApp + IA avec CRM, catalogue produits et automatisations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
